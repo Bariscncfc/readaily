@@ -1,6 +1,6 @@
 
 import './App.css';
-import Pricing from './components/Contact';
+import Pricing from './components/Pricing';
 import Discover from './components/Discover';
 import HeroSection from './components/Hero';
 import Navbar from './components/Navbar';

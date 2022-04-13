@@ -1,9 +1,15 @@
 
 
+video {
+  opacity: 0.8;
+  filter: brightness(75%);
+  width: 100%;
+}
+
 .hero-section-content {
     position: relative;
   background-color: black;
-  height: 75vh;
+  height: 100vh;
   min-height: 25rem;
   width: 100%;
   overflow: hidden;
@@ -27,5 +33,5 @@
 
 .hero-section-content .container {
     position: relative;
-  z-index: 2;
+    z-index: 2;
 }
