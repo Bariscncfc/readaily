@@ -4,6 +4,7 @@ import Pricing from './components/Pricing';
 import Discover from './components/Discover';
 import HeroSection from './components/Hero';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <HeroSection />
         <Discover />
         <Pricing/>
+        <Footer />
       </body>
     </div>
   );
